@@ -10,6 +10,7 @@ def Menu(): #MENU A SER EXIBIDO
     print("6- Limpar todos usuarios e suas respectivas contas")
     print("7- Nova conta")
     print("8- Mostrar contas")
+    print("9- Limpar contas")
     print("_______________________________________________")
 
     opcao = int(input("Digite a opcao desejada: "))
